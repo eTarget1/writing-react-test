@@ -5,7 +5,7 @@ exports[`My first snapshot test testing app button  1`] = `
   className="App"
 >
   <button>
-    Show
+    Hide
   </button>
 </div>
 `;

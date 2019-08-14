@@ -76,3 +76,5 @@ Jest is a JavaScript testing framework created by Facebook it works with React, 
 A typical snapshot test case for a react app renders a UI component, takes a snapshot then it checks against the reference snapshot file created by the jest if both snapshots don’t match our tests will fail.
 
 We need to install a new package called react-test-renderer which helps to grab a snapshot for our component.
+
+ "test": "react-scripts test",
