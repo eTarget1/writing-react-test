@@ -72,3 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 Jest is a JavaScript testing framework created by Facebook it works with React, Angular, Vue.
 ## when using create-react-app command jest is already included in our react project.
 
+##What is SnapShot test ?
+A typical snapshot test case for a react app renders a UI component, takes a snapshot then it checks against the reference snapshot file created by the jest if both snapshots don’t match our tests will fail.
+
+We need to install a new package called react-test-renderer which helps to grab a snapshot for our component.
