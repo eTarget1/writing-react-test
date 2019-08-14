@@ -77,4 +77,14 @@ A typical snapshot test case for a react app renders a UI component, takes a sna
 
 We need to install a new package called react-test-renderer which helps to grab a snapshot for our component.
 
- "test": "react-scripts test",
+In the project directory, you can run:
+
+npm test
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
+
+npm run test:update
+It is used to update the snapshots
+
+npm run test:coverage
+it is used to generate codecoverage reports
