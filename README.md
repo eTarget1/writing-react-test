@@ -68,3 +68,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
+##
+Jest is a JavaScript testing framework created by Facebook it works with React, Angular, Vue.
+## when using create-react-app command jest is already included in our react project.
+
